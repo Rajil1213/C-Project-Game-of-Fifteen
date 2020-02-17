@@ -1,3 +1,3 @@
 # C project Game of Fifteen
-Game of Fifteen implemented on C as a command-line game
+Game of Fifteen implemented on C as a command-line game. 
 God-mode available but erroneous
